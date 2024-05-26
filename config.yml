@@ -10,7 +10,7 @@ logo: "assets/alf.png"
 header: true
 #footer: false
 footer: '<a href="http://homer.fredonet.net">Alf`s Homelab</a>' # set false if you want to hide it.
-columns: "3"
+columns: "4"
 
 
 # Optional theme customization
