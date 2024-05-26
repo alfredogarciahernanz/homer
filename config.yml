@@ -127,7 +127,7 @@ services:
 #        url: "http://192.168.185.63"
 #        target: "_blank"
   - name: "Routers y Net"
-    icon: "fas network-wired"
+    icon: "fas fa-network-wired"
     items:
       - name: "Mikrotik"
         logo: "assets/mikrotik.png"
