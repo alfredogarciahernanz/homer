@@ -163,7 +163,7 @@ services:
         logo: "assets/tplink.png"
         subtitle: "Network switch"
         tag: "Networking"
-        url: "http://tl-sg108e.fredonet.eu"
+        url: "http://192.168.185.65/"
         target: "_blank"
   - name: "Herramientas"
     icon: "fas fa-tools"
