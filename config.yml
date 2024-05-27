@@ -114,7 +114,7 @@ services:
         tag: "NAS"
         url: "http://vizuete.es"
         target: "_blank"
-       - name: "github" 
+      - name: "github" 
         logo: "assets/github.png" 
         subtitle: "Repository" 
         tag: "develpment" 
