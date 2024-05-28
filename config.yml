@@ -307,7 +307,7 @@ services:
     icon: "fas fa-user-secret"
     items:
       - name: "Vodafone.de"
-        logo: "assets/vodafone.png"
+        logo: "assets/vodafone.jpg"
         subtitle: "Internet and Mobil"
         tag: "Teleco"
         url: "https://vodafone.de"
