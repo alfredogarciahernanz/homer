@@ -306,8 +306,8 @@ services:
   - name: "Mis links"
     icon: "fas fa-user-secret"
     items:
-      - name: "GMail"
+      - name: "Vodafone.de"
         logo: "assets/gmail.png"
-        subtitle: "alfredogarciahernanz@gmail.com"
-        tag: "eMail"
-        url: "https://mail.google.com/mail/u/0/#inbox"
+        subtitle: "Internet and Mobil"
+        tag: "Teleco"
+        url: "https://vodafone.de"
