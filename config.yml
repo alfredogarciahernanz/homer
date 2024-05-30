@@ -210,6 +210,7 @@ services:
         tag: "Servers"
         url: "https://portainer.fredonet.net"
         target: "_blank"
+        ptr_qwlapikey: "UmHFiRsyCK0XVE/sNHwgAJHw00TV2Ayyb4OvmJDE="
       - name: "pihole"
         logo: "assets/pihole.png"
         subtitle: "DNS"
