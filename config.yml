@@ -207,7 +207,7 @@ services:
       - name: "portainer"
         logo: "assets/portainer.png"
         subtitle: "docker"
-        tag: "Servers"
+ #       tag: "Servers"
         url: "https://portainer.fredonet.net"
         target: "_blank"
         apikey: "UmHFiRsyCK0XVE/sNHwgAJHw00TV2Ayyb4OvmJDE="
