@@ -311,3 +311,8 @@ services:
         subtitle: "Internet and Mobil"
         tag: "Teleco"
         url: "https://vodafone.de"
+      - name: "O2.de"
+        logo: "assets/o2.jpg"
+        subtitle: "Internet and Mobil"
+        tag: "Teleco"
+        url: "https://www.o2online.de/"       
