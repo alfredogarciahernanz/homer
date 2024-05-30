@@ -304,7 +304,7 @@ services:
         tag: "eMail"
         url: "https://mail.google.com/mail/u/0/#inbox"
   - name: "Mis links"
-    icon: "fas fa-user-secret"
+    icon: "fas fa-people-roof"
     items:
       - name: "Vodafone.de"
         logo: "assets/vodafone.jpg"
